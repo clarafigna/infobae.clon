@@ -1,0 +1,3 @@
+flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+git: es un software de control de versionado de código
+github: es una plataforma online para guardar repositorios de git
