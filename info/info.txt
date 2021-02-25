@@ -1,0 +1,15 @@
+flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+git: es un software de control de versionado de código
+github: es una plataforma online para guardar repositorios de git
+ecmascript: es la empresa que define el estandar del lenguaje javascript
+
+ES6 o EcmaScript 2015: es el estandar actual de javascript
+let, const, arrow functions, template literals, etc
+
+comandos de consola basicos:
+  - pwd: ver en qué ruta estoy parado
+  - git status: ver el estado de los archivos de mi proyecto
+  - git add <archivo> || git add *: agregar archivos modificados a "stage"
+  - git commit -m <mensaje>: cerrar esta actualizacion (o commit) con un nombre
+  - git push: subir el ultimo commit
+  - git pull: traerme las ultimas actualizaciones de GitHub (origin/master)
