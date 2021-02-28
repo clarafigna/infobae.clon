@@ -73,7 +73,7 @@ main .logo img {
   width: 250px;
 }
 
-main .middle-nav .today-date {
+main .middle-nav #today-date {
   display: flex;
   flex-flow: row nowrap;
   justify-content: flex-end;
